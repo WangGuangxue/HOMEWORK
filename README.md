@@ -1,4 +1,8 @@
 # HOMEWORK
+BEFORE YOU GOING, PLEASE READING THE F**KING README!
+
+
+
 A repository about my HOMEWORK at CDUT.
 Including 4 exs 
 arctg.m is a atan function written by myself.
